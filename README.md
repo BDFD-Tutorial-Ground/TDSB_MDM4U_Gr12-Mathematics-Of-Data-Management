@@ -35,6 +35,15 @@ humanities will find this course of particular interest
 
 ## Course Learn Path - Modules
 
+**Course Content**
+
+- [ ] **P1-Textbook(McGraw-Hill Ryerson)**
+- [ ] **P2-Solution Mannual(McGraw-Hill Ryerson)**
+- [ ] **P3-Lecture Handout(Self Prepared 2024)**
+- [ ] **P4-Project Plan(Self Prepare)**
+- [ ] **P5-Unit Test Review Question**
+- [ ] **P6-Exam Review Question**
+
 The courses enlisted as follows:
 
 - [x] **Ch01-Tools For Data Management**
