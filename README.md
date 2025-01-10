@@ -37,12 +37,12 @@ humanities will find this course of particular interest
 
 **Course Content**
 
-- [ ] **P1-Textbook(McGraw-Hill Ryerson)**
-- [ ] **P2-Solution Mannual(McGraw-Hill Ryerson)**
-- [ ] **P3-Lecture Handout(Self Prepared 2024)**
-- [ ] **P4-Project Plan(Self Prepare)**
-- [ ] **P5-Unit Test Review Question**
-- [ ] **P6-Exam Review Question**
+- [x] **P1-Textbook(McGraw-Hill Ryerson)**
+- [x] **P2-Solution Mannual(McGraw-Hill Ryerson)**
+- [x] **P3-Lecture Handout(Self Prepared 2024)**
+- [x] **P4-Project Plan(Self Prepare)**
+- [x] **P5-Unit Test Review Question**
+- [x] **P6-Exam Review Question**
 
 The courses enlisted as follows:
 
