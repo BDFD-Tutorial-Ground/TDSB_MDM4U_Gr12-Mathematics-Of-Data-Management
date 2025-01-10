@@ -7,76 +7,73 @@
  * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
 -->
 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style!
-
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
-
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/TDSB_MDM4U_DataManagement.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/TDSB_MDM4U_DataManagement?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/TDSB_MDM4U_DataManagement?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Course-NAME{Coursera})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>MDM4U-Mathematics of Data Managemetn
 
 ## About This Course/Certificate
-![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffffff&color=316999"/>  
-  <img src="https://img.shields.io/badge/pandas-%23130754.svg?style=plastic&logo=pandas&logoColor=white&color=4E447F"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&color=416572"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&color=3F4F75">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F89939.svg?style=plastic&logo=scikit-learn&logoColor=white&color=FCA043"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37725.svg?style=plastic&logo=jupyter&logoColor=white"/>
-</p> 
-An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum. 
 
-**Course prerequisite** 
-- [x] **C1-4U Calculus and Vectors**
-- [x] **C2-4U Advanced Functions**
-- [x] **C3-4U Physics**
-[Note: Successful completion of 4U Calculus and Vectors, 4U Advanced Functions and 4U Physics is required. Offered: F, also offered online: W]
+![commits](https://img.shields.io/github/last-commit/BDFD-Tutorial-Ground/TDSB_MDM4U_DataManagement?label=Last%20Commit%20)
+
+This course broadens students’ understanding of mathematics as it relates to managing
+data. Students will apply methods for organizing and analyzing large amounts of
+information; solve problems involving probability and statistics; and carry out a
+culminating investigation that integrates statistical concepts and skills. Students will also
+refine their use of the mathematical processes necessary for success in senior mathematics.
+Students planning to enter university programs in business, the social sciences, and the
+humanities will find this course of particular interest
+
+**Course prerequisite**
+
+- [x] **C1-MCR3U_Grade 11 Functions**
+- [x] **C2-MCF3M_Grade 11 Functions and Applications**
+      [Note: complete one of C1 or C2 is fine.]
 
 ## Course Learn Path - Modules
 
 The courses enlisted as follows:
 
-- [ ] **M1-Kinematics**
-- [ ] **M2-Dynamics**
-- [ ] **M3-Energy**
-- [ ] **M4-Linear Momentum**
-- [ ] **M5-Rotational Motion**
-- [ ] **M6-Angular Momentum**
+- [x] **Ch01-Tools For Data Management**
+- [x] **Ch02-Statistics of One Variables**
+- [x] **Ch03-Statistics of Two Variables**
+- [x] **Ch04-Permutations and Organized Counting**
+- [x] **Ch05-Combinations and The Binomial Theorm**
+- [x] **Ch06-Introduction to Probability**
+- [x] **Ch07-Probability Distribution**
+- [x] **Ch08-The Normal Distribution**
+- [x] **Ch09-Course Project**
 
 ## Course Description: 1 Course
 
-University Enrolled : University of Waterloo  
-<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
+High School Enrolled : TDSB High School Gr 12 Mathematics  
+<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Toronto_District_School_Board_Logo.png" alt="bdfd" />
 
 Main Instructor:
 
-1. Lecture Facilitator - Prof. Richard Epp
-2. Workshop Facilitator - Prof. Karen Cummings
-
+1. Lecture Facilitator -
+2. Workshop Facilitator -
 
 ## Applied Learning Project
 
-**Textbooks:** 
-1. University Physics, 15th Ed. By Young and Freedman
+**Textbooks:**
 
-**Add-on Resources:**  
-1. Mastering Physics on-line homework system
-2. Scientific Calculator 
+1. Mathematics of Data Management(McGraw-Hill Ryerson, 2002)
 
-**Projects:**  
+**Add-on Resources:**
+
+1. Microsoft Excel
+2. Scientific Calculator
+3. TI-83+ Graphing Calculator
+
+**Projects:**
+
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Course Description Link](https://schoolweb.tdsb.on.ca/Portals/malvernci/docs/Gr%2012%20Data%20MDM4U1.pdf)
 
 <div align="center">
 
