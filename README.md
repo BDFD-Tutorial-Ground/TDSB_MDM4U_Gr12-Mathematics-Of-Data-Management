@@ -44,7 +44,7 @@ humanities will find this course of particular interest
 - [x] **P5-Unit Test Review Question**
 - [x] **P6-Exam Review Question**
 
-The courses enlisted as follows:
+The courses MDM(McGraw-Hill Ryerson) unit list as follows:
 
 - [x] **Ch01-Tools For Data Management**
 - [x] **Ch02-Statistics of One Variables**
