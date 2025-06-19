@@ -13,7 +13,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/TDSB_MDM4U_DataManagement?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>MDM4U-Mathematics of Data Managemetn
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>MDM4U-Mathematics of Data Management
 
 ## About This Course/Certificate
 
