@@ -39,10 +39,13 @@ humanities will find this course of particular interest
 
 - [x] **P1-Textbook(McGraw-Hill Ryerson)**
 - [x] **P2-Solution Mannual(McGraw-Hill Ryerson)**
-- [x] **P3-Lecture Handout(Self Prepared 2024)**
-- [x] **P4-Project Plan(Self Prepare)**
-- [x] **P5-Unit Test Review Question**
-- [x] **P6-Exam Review Question**
+- [x] **P3-Lecture Handout([TDSB01/2025]/[SP01/2025])**
+- [ ] **P4-Problem Set(Provider/Year)**
+- [x] **P5-Course Project([TDSB01/2025])**
+- [x] **P6-Past Quiz([TDSB01/2025])**
+- [x] **P7-Past Test([TDSB01/2025]/[SP01/2025])**
+- [x] **P8-Past Exam([TDSB01/2025]/[SP01/2025])**
+- [x] **P9-Reference Note/Book(TDSB02/2025)**
 
 The courses MDM(McGraw-Hill Ryerson) unit list as follows:
 
