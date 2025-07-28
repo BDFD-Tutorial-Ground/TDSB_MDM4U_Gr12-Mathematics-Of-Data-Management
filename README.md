@@ -40,7 +40,7 @@ humanities will find this course of particular interest
 - [x] **P1-Textbook(McGraw-Hill Ryerson)**
 - [x] **P2-Solution Mannual(McGraw-Hill Ryerson)**
 - [x] **P3-Lecture Handout([TDSB01/2025]/[SP01/2025])**
-- [x] **P4-Problem Set([TDSB01/2025]/[SP01/2025])**
+- [x] **P4-Problem Set**
 - [x] **P5-Course Project([TDSB01/2025]/[SP01/2025])**
 - [x] **P6-Past Quiz([TDSB01/2025])**
 - [x] **P7-Past Test([TDSB01/2025]/[SP01/2025])**
