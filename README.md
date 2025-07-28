@@ -30,8 +30,8 @@ humanities will find this course of particular interest
 **Course prerequisite**
 
 - [x] **C1-MCR3U_Grade 11 Functions**
-- [x] **C2-MCF3M_Grade 11 Functions and Applications**
-      [Note: complete one of C1 or C2 is fine.]
+- [x] **C2-MCF3M_Grade 11 Functions and Applications**  
+       [Note: complete one of C1 or C2 is fine.]
 
 ## Course Learn Path - Modules
 
