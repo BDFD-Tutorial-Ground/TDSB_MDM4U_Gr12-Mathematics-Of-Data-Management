@@ -1,0 +1,10 @@
+Test 1          12%
+Test 2          12%
+Test 3          12%
+Test 4          12%
+4 Quiz          12%
+Final Project   20%
+Final Exam      20%
+
+
+Note: Teachers have the option to change the quiz or test questions from the questions database
